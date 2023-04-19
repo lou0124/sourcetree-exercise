@@ -1,2 +1,2 @@
 hello
-Number = 100
+Number = 80
